@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.halezaee.portalsib",
+    "sha256_cert_fingerprints": ["80:67:B6:DF:BB:6A:06:C1:00:A7:02:47:86:A9:40:0C:69:27:94:85:2F:8A:1B:14:40:7A:8F:87:DC:D9:3D:F6"]
+  }
+}]
